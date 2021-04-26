@@ -1,3 +1,5 @@
+Import time
+
 print ("Mange tak.")
-wait(5)
+time.wait(5)
 
