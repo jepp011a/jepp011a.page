@@ -1,1 +1,2 @@
-print ("Hello world")
+print ("Mange tak.")
+pause(100)
