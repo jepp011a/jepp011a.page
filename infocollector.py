@@ -1,2 +1,3 @@
 print ("Mange tak.")
-pause(100)
+wait(5)
+
